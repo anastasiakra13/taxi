@@ -64,7 +64,6 @@ ins{
 }
 
 .center{
-	width: 100%
 	max-width: 1170px;
 	margin: 0 auto;
 }
@@ -118,6 +117,7 @@ ins{
 
 .jselector.is-shown .dropdown ul li{
 	padding: 4px 10px;
+	background: #fff;
 }
 
 .jselector.is-shown .dropdown ul li.selected{
